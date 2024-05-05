@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there
+
+I am Quinn. I have a Bachelor's of Science degree in Computer Science, and minors in Mathematics and Chemistry. I do things, typically not of great import
 
 <!--
 **spitzeqc/spitzeqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
